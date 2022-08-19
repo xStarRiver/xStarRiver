@@ -22,15 +22,12 @@ Learning :
 ![docker](https://badges.aleen42.com/src/docker.svg) : Docker  
 ![java](https://badges.aleen42.com/src/java.svg) : Java  
 ![Golang](https://badges.aleen42.com/src/golang.svg) : Golang
-
-  
 <br/>
 
 ![xstarriver](https://github-readme-stats.vercel.app/api/?username=xstarriver&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=fAA61A&border_radius=10)
  <a href="https://github.com/xStarRiver/github-readme-stats"><img alt="xStarRiver's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xStarRiver&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&border_color=fAA61A&bg_color=0D1117" /></a>
 
 <br/>
-
 <p align="left">
 
 <a href = "https://www.instagram.com/xstarriver/"><img src="https://badges.aleen42.com/src/instagram.svg"/></a>
