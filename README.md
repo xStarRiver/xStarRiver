@@ -1,20 +1,23 @@
-<h2 align="center">Halo :3 I'm StarRiver !!!</h2>
+<h2 align="left">Halo :3 I'm StarRiver from Hong Kong !!!</h2>
 <p><img class="dcimg" src="https://discord.c99.nl/widget/theme-3/309228232937439232.png"></p>
 
 ## 🚀 Languages and Tools:
-I am now using the language below:  
-![Python](https://badges.aleen42.com/src/python.svg) : Python
+Language  
+![Python](https://badges.aleen42.com/src/python.svg) : Python 
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
 ![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
+![Angular](https://badges.aleen42.com/src/angular.svg) : Angular
 ![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
+![TF](https://badges.aleen42.com/src/tensorflow.svg) : TensorFlow (AI)
+![TL](https://badges.aleen42.com/src/cli.svg) : Terminal (Powershell | Bash)
 
-I am using the IDEs below:  
+IDEs :
 ![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
 ![vc](https://badges.aleen42.com/src/visual_studio.svg) : Visual Studio  
 ![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA
 
-I am now learning the languages below:  
+Learning :
 ![docker](https://badges.aleen42.com/src/docker.svg) : Docker  
 ![java](https://badges.aleen42.com/src/java.svg) : Java  
 ![Golang](https://badges.aleen42.com/src/golang.svg) : Golang
@@ -31,6 +34,7 @@ I am now learning the languages below:
 
 <a href = "https://www.instagram.com/xstarriver/"><img src="https://badges.aleen42.com/src/instagram.svg"/></a>
 <a href = "https://www.youtube.com/c/xStarRiver"><img src="https://badges.aleen42.com/src/youtube.svg"/></a>
+<a href = ""><img src="https://badges.aleen42.com/src/discord.svg"/></a>
 </p>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
