@@ -2,7 +2,7 @@
 <p><img class="dcimg" src="https://discord.c99.nl/widget/theme-3/309228232937439232.png"></p>
 
 ## 🚀 Languages and Tools:
-Language  
+Language : 
 ![Python](https://badges.aleen42.com/src/python.svg) : Python   
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
 ![Angular](https://badges.aleen42.com/src/angular.svg) : Angular  
