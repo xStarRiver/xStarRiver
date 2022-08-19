@@ -1,11 +1,13 @@
+<h2 align="center">Halo :3 I'm StarRiver !!!</h2>
 <p><img class="dcimg" src="https://discord.c99.nl/widget/theme-3/309228232937439232.png"></p>
-<h1 align="center">Halo :3 I'm StarRiver !!!</h1>
 
 ## 🚀 Languages and Tools:
 I am now using the language below:  
+![Python](https://badges.aleen42.com/src/python.svg) : Python
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
-![docker](https://badges.aleen42.com/src/docker.svg) : Docker  
+![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
+![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
 
 I am using the IDEs below:  
 ![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
@@ -13,9 +15,10 @@ I am using the IDEs below:
 ![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA
 
 I am now learning the languages below:  
+![docker](https://badges.aleen42.com/src/docker.svg) : Docker  
 ![java](https://badges.aleen42.com/src/java.svg) : Java  
-![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
-![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
+![Golang](https://badges.aleen42.com/src/golang.svg) : Golang
+
   
 <br/>
 
@@ -26,8 +29,8 @@ I am now learning the languages below:
 
 <p align="left">
 
-<a href = "https://www.instagram.com/xstarriver/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/c/xStarRiver"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.instagram.com/xstarriver/"><img src="https://badges.aleen42.com/src/instagram.svg"/></a>
+<a href = "https://www.youtube.com/c/xStarRiver"><img src="https://badges.aleen42.com/src/youtube.svg"/></a>
 </p>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
