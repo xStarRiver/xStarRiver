@@ -5,19 +5,21 @@
 Language  
 ![Python](https://badges.aleen42.com/src/python.svg) : Python 
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
+![TL](https://badges.aleen42.com/src/cli.svg) : Terminal (Powershell | Bash)
+![Angular](https://badges.aleen42.com/src/angular.svg) : Angular
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
 ![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
-![Angular](https://badges.aleen42.com/src/angular.svg) : Angular
+
 ![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
 ![TF](https://badges.aleen42.com/src/tensorflow.svg) : TensorFlow (AI)
-![TL](https://badges.aleen42.com/src/cli.svg) : Terminal (Powershell | Bash)
 
-IDEs :
+
+IDEs :  
 ![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
 ![vc](https://badges.aleen42.com/src/visual_studio.svg) : Visual Studio  
 ![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA
 
-Learning :
+Learning :  
 ![docker](https://badges.aleen42.com/src/docker.svg) : Docker  
 ![java](https://badges.aleen42.com/src/java.svg) : Java  
 ![Golang](https://badges.aleen42.com/src/golang.svg) : Golang
