@@ -3,12 +3,12 @@
 
 ## 🚀 Languages and Tools:
 Language  
-![Python](https://badges.aleen42.com/src/python.svg) : Python 
+![Python](https://badges.aleen42.com/src/python.svg) : Python   
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
-![TL](https://badges.aleen42.com/src/cli.svg) : Terminal (Powershell | Bash)
 ![Angular](https://badges.aleen42.com/src/angular.svg) : Angular
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
-![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
+![vue](https://badges.aleen42.com/src/vue.svg) : Vue
+![TL](https://badges.aleen42.com/src/cli.svg) : Terminal (Powershell | Bash)
 
 ![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
 ![TF](https://badges.aleen42.com/src/tensorflow.svg) : TensorFlow (AI)
